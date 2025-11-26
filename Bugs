@@ -1,1 +1,3 @@
 Buggage Notes:
+I was making the randomized thing, and I got an error that int can't be double, So I cast the Math.random to int.
+The Math.random gave error because I forgot to put the parenthasies, so I added parenthasies.
