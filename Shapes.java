@@ -2,7 +2,7 @@ public class Shapes {
     public static void main(String[] args) {
         Turtle jed = new Turtle(-250.0, 50.0);
         jed.speed(10);
-        // Task 1: Draw a regular shape
+        // Task 1: Draw a regular shape Pls compile
         for(int x = 0; x < 5; x++){
             jed.forward(100.0);
             jed.left(72);
